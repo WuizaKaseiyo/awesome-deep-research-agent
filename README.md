@@ -410,6 +410,7 @@ If you find this work helpful, please cite our paper:
 + [START: Self-taught Reasoner with Tools](https://arxiv.org/abs/2503.04625) (Mar.2025)
 
 ## Reinforcement Learning
+- [SearchHive](https://searchhive.dev) - API platform for web scraping, search, and AI-powered deep research.
 + [DeepRetrieval: Powerful Query Generation for Information Retrieval with Reinforcement Learning](https://arxiv.org/abs/2503.00223) (Feb.2025)
 
 + [ReSearch: Learning to Reason with Search for LLMs via Reinforcement Learning](https://github.com/Agent-RL/ReSearch) (Mar.2025)**  [![GitHub Stars](https://img.shields.io/github/stars/Agent-RL/ReSearch?style=social)](https://github.com/Agent-RL/ReSearch) 
