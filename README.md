@@ -421,3 +421,4 @@ If you find this work helpful, please cite our paper:
 + [Agent-R1: Training Powerful LLM Agents with End-to-End Reinforcement Learning](https://github.com/0russwest0/Agent-R1) (Mar.2025)**  [![GitHub Stars](https://img.shields.io/github/stars/0russwest0/Agent-R1?style=social)](https://github.com/0russwest0/Agent-R1) -- >
 
 
+- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor-frontend) - AI monitoring dashboard for AI agents and LLMs. [Demo](https://flik2002.github.io/openclaw-monitor-frontend)
