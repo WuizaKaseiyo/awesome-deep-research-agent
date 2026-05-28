@@ -409,6 +409,10 @@ If you find this work helpful, please cite our paper:
 
 + [START: Self-taught Reasoner with Tools](https://arxiv.org/abs/2503.04625) (Mar.2025)
 
++ **[Future AGI simulate-sdk](https://github.com/future-agi/simulate-sdk)** Open-source SDK for simulating voice and text AI agents through persona- and scenario-driven multi-turn conversations before launch.  [![GitHub Stars](https://img.shields.io/github/stars/future-agi/simulate-sdk?style=social)](https://github.com/future-agi/simulate-sdk)
+
++ **[Future AGI ai-evaluation](https://github.com/future-agi/ai-evaluation)** Open-source LLM evaluation framework with 50+ metrics, LLM-as-Judge augmentation, and guardrail scanners (jailbreak, PII, prompt-injection); AutoEval pipelines with CI/CD support.  [![GitHub Stars](https://img.shields.io/github/stars/future-agi/ai-evaluation?style=social)](https://github.com/future-agi/ai-evaluation)
+
 ## Reinforcement Learning
 + [DeepRetrieval: Powerful Query Generation for Information Retrieval with Reinforcement Learning](https://arxiv.org/abs/2503.00223) (Feb.2025)
 
