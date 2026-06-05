@@ -421,3 +421,8 @@ If you find this work helpful, please cite our paper:
 + [Agent-R1: Training Powerful LLM Agents with End-to-End Reinforcement Learning](https://github.com/0russwest0/Agent-R1) (Mar.2025)**  [![GitHub Stars](https://img.shields.io/github/stars/0russwest0/Agent-R1?style=social)](https://github.com/0russwest0/Agent-R1) -- >
 
 
+
+
+## Benchmarks
+
+- [REFUTE](https://huggingface.co/datasets/BGPT-OFFICIAL/refute) — Apache-2.0 benchmark for scientific critique & epistemic calibration on recent (2025–2026) science summaries. Separates critique skill from calibrated truthfulness (falsification, limitations, overclaims, missing-evidence refusal, confidence calibration, planted-flaw detection). [Leaderboard](https://huggingface.co/spaces/BGPT-OFFICIAL/refute-leaderboard) · [Technical report](https://huggingface.co/datasets/BGPT-OFFICIAL/refute/blob/main/TECHNICAL_REPORT.md) · [Integrators](https://huggingface.co/datasets/BGPT-OFFICIAL/refute/blob/main/INTEGRATORS.md)
