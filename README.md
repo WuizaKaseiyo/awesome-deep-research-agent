@@ -361,6 +361,9 @@ If you find this work helpful, please cite our paper:
 
 + [Retrieval Models Aren't Tool-Savvy: Benchmarking Tool Retrieval for Large Language Models](https://arxiv.org/abs/2503.01763) (Mar.2025)
 
++ **[Dr. Bench: A Multidimensional Evaluation for Deep Research Agents, from Answers to Reports](https://arxiv.org/abs/2510.02190) (Oct. 2025)**
+  [![GitHub Stars](https://img.shields.io/github/stars/EVIGBYEN/DrBench?style=social)](https://github.com/EVIGBYEN/DrBench)
+
 ## Close Source Research Agent
 + **[Google Gemini Deep Research](https://gemini.google/overview/deep-research/) (Dec.2024)
 
@@ -419,5 +422,3 @@ If you find this work helpful, please cite our paper:
 + [Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning](https://arxiv.org/abs/2503.09516) (Mar.2025)**   [![GitHub Stars](https://img.shields.io/github/stars/PeterGriffinJin/Search-R1?style=social)](https://github.com/PeterGriffinJin/Search-R1)
 
 + [Agent-R1: Training Powerful LLM Agents with End-to-End Reinforcement Learning](https://github.com/0russwest0/Agent-R1) (Mar.2025)**  [![GitHub Stars](https://img.shields.io/github/stars/0russwest0/Agent-R1?style=social)](https://github.com/0russwest0/Agent-R1) -- >
-
-
